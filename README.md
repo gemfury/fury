@@ -1,0 +1,1 @@
+Renamed to [Gemfury](http://www.github.com/gemfury/gemfury)
